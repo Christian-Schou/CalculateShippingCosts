@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculateShippingCosts
 {
-    class ShippingCalculatorDelegate
+    public class ShippingCalculatorDelegate
     {
         public static double Zone1(double price)
         {
