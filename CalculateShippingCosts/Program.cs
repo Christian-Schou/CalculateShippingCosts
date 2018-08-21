@@ -65,7 +65,7 @@ namespace CalculateShippingCosts
                     break;
             }
 
-            Console.Write("Please enter zone: ");
+            Console.Write("Hit ENTER to exit or enter zone number: ");
             Console.ReadKey();
 
 
