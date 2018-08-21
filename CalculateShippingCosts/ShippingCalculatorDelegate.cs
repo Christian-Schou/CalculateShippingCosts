@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CalculateShippingCosts
+﻿namespace CalculateShippingCosts
 {
-    public class ShippingCalculatorDelegate
+    public static class ShippingCalculatorDelegate
     {
         public static double Zone1(double price)
         {
